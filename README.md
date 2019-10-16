@@ -20,4 +20,4 @@ function fetchGifs() {
 ```
 ### Here I am mapping through the gifs data in order to push it to the gifs array.
 ### Lastly, a screenshot of my code to better understand the method:
-!(/images/js.png)
+![Map](/js.png)
