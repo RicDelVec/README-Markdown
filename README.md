@@ -1,7 +1,7 @@
 # Array.prototype.map()
 ## The ES6+ feature I would like to examine is the map() method
 
-### This method creates a new array with the results of calling a provided function on every element in the calling array. I used this method to update empty arrays such as gifs and emojis in order to displa the data fetched by the respective APIs. You can read more about it here: [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+### This method creates a new array with the results of calling a provided function on every element in the calling array. I used this method to update empty arrays such as gifs and emojis in order to display the data fetched by the respective APIs. You can read more about it here: [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ### Let me show you a snippet of code:
 ```js 
